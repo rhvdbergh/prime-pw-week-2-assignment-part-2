@@ -48,9 +48,9 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We declare a variable called "secret", but do not assign it a value.
 // Next we declare a variable called "code" and assign it a number value of 123.
-// We check whether the variable "code" is equal to the number 123. Since it
-// is equal in this case, we assign the string value "super" to the variable "secret"
-// that we created earlier.
+// We check whether the value of the variable "code" is equal to the number 123.
+// Since it is equal in this case, we assign the string value "super" to the
+// variable "secret" that we created earlier.
 // Next we multiply the value assigned to the variable
 // "code", 123, by 2 (which results in 246) and we assign this new value, 246,
 // to the variable "code".
